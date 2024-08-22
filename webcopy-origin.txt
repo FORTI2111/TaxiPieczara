@@ -1,0 +1,144 @@
+Uri: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\npm\@fortawesome\fontawesome-free\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\npm\@fortawesome\fontawesome-free\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\npm\@fortawesome\fontawesome-free\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\npm\@fortawesome\fontawesome-free\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\npm\@fortawesome\fontawesome-free\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\npm\@fortawesome\fontawesome-free\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\npm\@fortawesome\fontawesome-free\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\npm\@fortawesome\fontawesome-free\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\npm\@fortawesome\fontawesome-free\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/dist/fonts/tabler-icons.ttf?v3.11.0
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\npm\@tabler\icons-webfont@latest\dist\fonts\tabler-icons.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/dist/fonts/tabler-icons.woff2?v3.11.0
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\npm\@tabler\icons-webfont@latest\dist\fonts\tabler-icons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/dist/fonts/tabler-icons.woff?
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\npm\@tabler\icons-webfont@latest\dist\fonts\tabler-icons.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/dist/tabler-icons.min.css
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\npm\@tabler\icons-webfont@latest\dist\tabler-icons.min.css
+Content Type: text/css
+
+Uri: https://imponte-roleplay.pl/
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\index.htm
+Content Type: text/html
+
+Uri: https://imponte-roleplay.pl/bg-grid.svg
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\bg-grid.svg
+Content Type: image/svg+xml
+
+Uri: https://imponte-roleplay.pl/css/hamburgers.css
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\css\hamburgers.css
+Content Type: text/css
+
+Uri: https://imponte-roleplay.pl/favicon.ico
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://imponte-roleplay.pl/logo.png
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\logo.png
+Content Type: image/png
+
+Uri: https://imponte-roleplay.pl/regulamin
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\regulamin.html
+Content Type: text/html
+
+Uri: https://imponte-roleplay.pl/_astro/about1.M4i2SPcZ.png
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\_astro\about1.M4i2SPcZ.png
+Content Type: image/png
+
+Uri: https://imponte-roleplay.pl/_astro/about2.CZb9ahMN.png
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\_astro\about2.CZb9ahMN.png
+Content Type: image/png
+
+Uri: https://imponte-roleplay.pl/_astro/hoisted.DLP-8mIk.js
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\_astro\hoisted.DLP-8mIk.js
+Content Type: application/javascript
+
+Uri: https://imponte-roleplay.pl/_astro/hoisted.v81Nxllg.js
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\_astro\hoisted.v81Nxllg.js
+Content Type: application/javascript
+
+Uri: https://imponte-roleplay.pl/_astro/index.DlSCdVxm.css
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\_astro\index.DlSCdVxm.css
+Content Type: text/css
+
+Uri: https://imponte-roleplay.pl/_astro/inter-cyrillic-ext-wght-normal.DIEz8p5i.woff2
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\_astro\inter-cyrillic-ext-wght-normal.DIEz8p5i.woff2
+Content Type: font/woff2
+
+Uri: https://imponte-roleplay.pl/_astro/inter-cyrillic-wght-normal.BmJJXa8e.woff2
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\_astro\inter-cyrillic-wght-normal.BmJJXa8e.woff2
+Content Type: font/woff2
+
+Uri: https://imponte-roleplay.pl/_astro/inter-greek-ext-wght-normal.D5AYLNiq.woff2
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\_astro\inter-greek-ext-wght-normal.D5AYLNiq.woff2
+Content Type: font/woff2
+
+Uri: https://imponte-roleplay.pl/_astro/inter-greek-wght-normal.DyIDNIyN.woff2
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\_astro\inter-greek-wght-normal.DyIDNIyN.woff2
+Content Type: font/woff2
+
+Uri: https://imponte-roleplay.pl/_astro/inter-latin-ext-wght-normal.CN1pIXkb.woff2
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\_astro\inter-latin-ext-wght-normal.CN1pIXkb.woff2
+Content Type: font/woff2
+
+Uri: https://imponte-roleplay.pl/_astro/inter-latin-wght-normal.BgVq2Tq4.woff2
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\_astro\inter-latin-wght-normal.BgVq2Tq4.woff2
+Content Type: font/woff2
+
+Uri: https://imponte-roleplay.pl/_astro/inter-vietnamese-wght-normal._GQuwPVU.woff2
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\_astro\inter-vietnamese-wght-normal._GQuwPVU.woff2
+Content Type: font/woff2
+
+Uri: https://imponte-roleplay.pl/_astro/montserrat-cyrillic-ext-wght-normal.rV1oiNxr.woff2
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\_astro\montserrat-cyrillic-ext-wght-normal.rV1oiNxr.woff2
+Content Type: font/woff2
+
+Uri: https://imponte-roleplay.pl/_astro/montserrat-cyrillic-wght-normal.CHYi_LmU.woff2
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\_astro\montserrat-cyrillic-wght-normal.CHYi_LmU.woff2
+Content Type: font/woff2
+
+Uri: https://imponte-roleplay.pl/_astro/montserrat-latin-ext-wght-normal.BIVePy9u.woff2
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\_astro\montserrat-latin-ext-wght-normal.BIVePy9u.woff2
+Content Type: font/woff2
+
+Uri: https://imponte-roleplay.pl/_astro/montserrat-latin-wght-normal.BDA6280a.woff2
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\_astro\montserrat-latin-wght-normal.BDA6280a.woff2
+Content Type: font/woff2
+
+Uri: https://imponte-roleplay.pl/_astro/montserrat-vietnamese-wght-normal.BXWSX9tz.woff2
+File Name: C:\Users\hazze\Downloads\imponte-roleplay.pl\_astro\montserrat-vietnamese-wght-normal.BXWSX9tz.woff2
+Content Type: font/woff2
+
